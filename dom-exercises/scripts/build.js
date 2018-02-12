@@ -22,3 +22,5 @@ existingElement.appendChild(paragraph);
 
 existingElement = document.getElementsByTagName("body")[0];
 existingElement.appendChild(image);
+
+image.setAttribute("src", "../images/elefant.jpeg")
